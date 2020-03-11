@@ -16,14 +16,14 @@ StreamNative Platform is a cloud-native event streaming platform powered by Apac
 ### Tarball Introduction
 
 
-sn-platform-all:
+**sn-platform-all**:
 
 - pulsar-core
 - control-center
 - connectors
 - offload
 
-pulsar-core:
+**pulsar-core**:
 
 - Broker
 - BookKeeper
@@ -32,7 +32,7 @@ pulsar-core:
 - WebSocket
 - Pulsarctl
 
-control-center:
+**control-center**:
 
 - Pulsar Manager
 - Prometheus
