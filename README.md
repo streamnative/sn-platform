@@ -44,7 +44,7 @@
 
 | Version | Reference |
 | --------| --------- |
-| [v1.0.0](https://github.com/streamnative/sn-platform/releases/tag/v0.1.0)| [https://streamnative.io/docs/1.0.0/overview/](https://streamnative.io/docs/1.0.0/overview/)
+| [v1.0.0](https://github.com/streamnative/sn-platform/releases/tag/v0.1.0)| [https://streamnative.io/docs/v1.0.0/overview/](https://streamnative.io/docs/v1.0.0/overview/)
 
 ## License
 
