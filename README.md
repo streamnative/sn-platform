@@ -9,7 +9,7 @@
 
 ## StreamNative Platform
 
-StreamNative Platform is a cloud-native event streaming platform powered by Apache Pulsar, providing the capability for connecting, storing and processing event streams for enterprises.
+[StreamNative Platform](https://streamnative.io/platform/) is a cloud-native event streaming platform powered by Apache Pulsar, providing the capability for connecting, storing and processing event streams for enterprises.
 
 ![architecture](./images/SN-Platform-architecture.png)
 
@@ -44,7 +44,7 @@ StreamNative Platform is a cloud-native event streaming platform powered by Apac
 
 | Version | Reference |
 | --------| --------- |
-| [v0.1.0](https://github.com/streamnative/sn-platform/releases/tag/v0.1.0)| [TBD: link to streamnative/docs/v0.1.0]
+| [v1.0.0](https://github.com/streamnative/sn-platform/releases/tag/v0.1.0)| [https://streamnative.io/docs/1.0.0/overview/](https://streamnative.io/docs/1.0.0/overview/)
 
 ## License
 
