@@ -11,7 +11,7 @@
 
 This repo is used for hosting the binary distributions of all the releases of StreamNative Platform.
 
-Please visit [StreamNative Docs](https://streamnative.io/docs] for more details.
+Please visit [StreamNative Docs](https://streamnative.io/docs) for more details.
 
 ## Available Releases
 
